@@ -55,5 +55,5 @@ Feel free to open an issue or submit a pull request.
 ---
 
 ## 📬 Contact
-Created by: Alfaz
+Created by: Alfaz <br>
 GitHub: @Alfazz-1001
