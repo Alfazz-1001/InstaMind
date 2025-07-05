@@ -32,10 +32,10 @@ Say goodbye to endless scrolling trying to find *that one reel*. Let InstaMind d
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript *(or React, if used)*
-- **Backend:** Node.js / Express *(if applicable)*
-- **Database:** MongoDB / Firebase *(if used)*
-- **Notifications:** Local notifications / Push API
+- **Frontend:** HTML, CSS, JavaScript 
+- **Backend:** Node.js
+- **Database:** MongoDB
+- **Notifications:** Local notifications
 
 ---
 
